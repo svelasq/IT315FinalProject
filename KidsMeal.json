@@ -1,5 +1,5 @@
 {
-  "KidsMeals":
+  "KidsMeal":
   [
     {"MealName":"Granola, Yogurt, & Berries","MealDescription":"Have a chilled bowl filled with creamy yogurt and your favorite berries, then add sweet granola for a tasty breakfast!","MealLength":5,"MealDifficulty": "Easy", "MealID": 1, "MealImage":"need image"},
 
