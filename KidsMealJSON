@@ -1,0 +1,25 @@
+{
+  "KidsMeals":
+  [
+    {"MealName":"Granola, Yogurt, & Berries","MealDescription":"Have a chilled bowl filled with creamy yogurt and your favorite berries, then add sweet granola for a tasty breakfast!","MealLength":5,"MealDifficulty": "Easy", "MealID": 1, "MealImage":"need image"},
+
+    {"MealName":"French Toast & Sliced Apples", "MealDescription":"Looking for something savory? Help mommy or daddy turn some bread, cinnamon, milk, and eggs into a breakfast you will love.","MealLength":30,"MealDifficulty":"Easy","MealID":2,"MealImage":"need image"},
+
+    {"MealName":"Scrambled Eggs & Melon","MealDescription":"Need more protein? Try scrambling sone eggs and eating it with some cut-up melon on the side. Fruits are amazing for you!","MealLength":10,"MealDifficulty":"Easy","MealID":3,"MealImage":"need image"},
+
+     {"MealName":"Grilled Cheese & Tomato Soup","MealDescription":"Eat some grilled cheese and dip it into tomatco soup for a tasty lunch. Add some peaches for a sweet snack to go with it!","MealLength":25,"MealDifficulty":"Difficult","MealID":4,"MealImage":"need image"},
+
+     {"MealName":"Chicken Nuggets, Broccoli, & Pears","MealDescription":"Chicken nuggets! What else can I say? Try it with broccoli and pears so you can grow big and strong!","MealLength":15,"MealDifficulty":"Medium","MealID":5,"MealImage":"need image"},
+
+     {"MealName":"PB&J, Carrots & Dip, and Fruit","MealDescription":"Who would say no to a peanut butter and jelly sandwich? Eat your sandwich with carrots and dip, and some clementines for a well-balanced meal.","MealLength":10,"MealDifficulty":"Easy","MealID":6,"MealImage":"need image"},
+
+     {"MealName":"Spaghetti with Mixed Veggies","MealDescription":"Have some spaghetti noodles with tasty marinara sauce! Yum! Don't forget to have some vegetables to make sure you stay healthy!","MealLength":45,"MealDifficulty":"Medium","MealID":7,"MealImage":"need image"},
+
+{"MealName":"Cheesy Chicken Casserole","MealDescription":"Mmmm cheese, chicken, and broccoli! I know broccoli doesn't sound too good but trust me: it's delicious!","MealLength":45,"MealDifficulty":"Difficult","MealID":8,"MealImage":"need image"},
+
+{"MealName":"Sloppy Joe's & Sweet Potato Fries","MealDescription":"This one is a favorite in my household, you want to know why? You can get messy! It's also super yummy with the sweet potato fries :)","MealLength":30,"MealDifficulty":"Medium","MealID":9,"MealImage":"need image"}
+
+
+  ],
+  "Status":"OK"
+}
